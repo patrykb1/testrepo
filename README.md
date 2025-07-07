@@ -1,2 +1,2 @@
 # testrepo
-creating test repo demo
+July 2025 for Illinois Tech MOOC
